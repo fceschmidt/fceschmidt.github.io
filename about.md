@@ -1,15 +1,12 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hey there!
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+I am Fabian, a 20-year-old Computer Science student from Hamburg, Germany. I like reading, coding, music, and running, and I will try to post stuff that I find interesting or helpful to others. In the meanwhile, if you want to tell me anything, please do so on [Twitter](https://twitter.com/fceschmidt).
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+This blog uses [Jekyll](http://jekyllrb.com) with the [Lanyon](http://lanyon.getpoole.com) theme.
+
+Thanks for reading!
