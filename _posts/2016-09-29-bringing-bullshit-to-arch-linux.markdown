@@ -1,7 +1,7 @@
 ---
 title: Bringing bullshit to Arch Linux
 layout: post
-date: 2016-09-29 08:25:00 +0100
+date: 2016-09-29 20:13:00 +0100
 category: foss
 tags:
     - Arch Linux
