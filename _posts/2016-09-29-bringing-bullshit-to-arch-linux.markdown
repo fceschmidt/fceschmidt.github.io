@@ -7,7 +7,12 @@ tags:
     - Arch Linux
     - Open Source
 ---
-On September 3, I was hanging around in the [\#archlinux-offtopic][irc-archlinux-offtopic] IRC channel, and when [chee][github-chee] came up with the idea to make a Linux program which would print a random imgur link, I asked for more fascinating ideas like that one. I think I might actually realize that first idea at some point, but I'll save that for later. Anyway, chee also pointed me to this script simply called [bullshit][man-bullshit], originally written as part of the exotic [9front][9front-homepage] operating system, and I wanted this on my system, so I figured I might as well port it.
+On September 3, I was hanging around in the [\#archlinux-offtopic][irc-archlinux-offtopic] IRC channel, and when [chee][github-chee] came up with the idea to make a Linux program which would print a random imgur link, I asked for more fascinating ideas like that one. I think I might actually realize that first idea at some point, but I'll save that for later. Anyway, chee also pointed me to this script simply called [bullshit][man-bullshit], originally written as part of the exotic [9front][9front-homepage] operating system, and I wanted this on my system, so I figured I might as well port it. Here is what it does:
+
+```
+$ bullshit
+managed virtual API out-scaling backend
+```
 
 Bullshit's [original source code][githubusercontent-rc/bin/bullshit] was written for the [Plan 9 shell][man-rc] called rc, but the script really mostly consists of a 50-line [awk][man-awk] command, which I could obviously keep without modification, while the remaining five lines were one line of shebang, and four lines of setting a variable. That was quite easily ported, the script now looks like [this][githubusercontent-sh/bin/bullshit], I installed this locally, had some fun, and from then on the whole thing remained largely untouched for a couple of weeks.
 
