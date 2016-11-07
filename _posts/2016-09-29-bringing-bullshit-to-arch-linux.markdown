@@ -2,6 +2,7 @@
 title: Bringing bullshit to Arch Linux
 layout: post
 date: 2016-09-29 20:13:00 +0100
+language: en
 category: foss
 tags:
     - Arch Linux
@@ -68,5 +69,3 @@ So I created a new repository and tried my best to do everything right from the 
 [lucent-ycombinator]: https://news.ycombinator.com/item?id=7232042
 [aur-bullshit]: https://aur.archlinux.org/packages/bullshit/
 [ccc]: https://www.ccc.de/en/
-
-

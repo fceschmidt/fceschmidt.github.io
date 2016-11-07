@@ -2,6 +2,7 @@
 title: "DIN 40700 logic gates in CircuiTikZ"
 layout: post
 date: 2016-11-07 14:44:00 +0000
+language: en
 category: foss
 tags:
     - latex
