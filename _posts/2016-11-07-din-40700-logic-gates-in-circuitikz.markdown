@@ -25,7 +25,7 @@ _Small explanatory note: The leftmost gate is a_ not _gate, the middle gate is a
 
 I will focus on the _or_ gate for the sake of this article. It seemed sensible to just take the _and_ gate, and modify it a bit so that it looks like the German _or_ gate.
 
-The _and_ gate is defined in _pgfcirctripoles.tex_ in the lines following the declaration `\pgfdeclarelogicport{and}`. What we find in the body of the definition are a set of commands for [PGF](https://www.ctan.org/pkg/pgf), which is a LaTeX macro package for creating graphics. The layout of the AND gate is basically a sequence of _moveto_, _lineto_, and _curveto_ commands, and structurally, it consists of:
+The _and_ gate is defined in _pgfcirctripoles.tex_ in the lines following the declaration `\pgfdeclarelogicport{and}`. What we find in the body of the definition are a set of commands for [PGF](https://www.ctan.org/pkg/pgf), which is a LaTeX macro package for creating graphics. The layout of the _and_ gate is basically a sequence of _moveto_, _lineto_, and _curveto_ commands, and structurally, it consists of:
 
 1. The upper input port
 2. The lower input port
