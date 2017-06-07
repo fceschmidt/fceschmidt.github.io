@@ -55,7 +55,7 @@ Apply the gel to roughly the same area as the tape had before.
 
 Preferably outside of the room in which the tent is drying.
 
-![Shiny seams](/public/assets/2017-06-07-how-to-repair-a-25-year-old-tent/DSC0819.jpg)
+![Shiny seams](/public/assets/2017-06-07-how-to-repair-a-25-year-old-tent/DSC0819_01.jpg)
 
 As you can see in the picture, the seams are shiny after using the gel.
 
