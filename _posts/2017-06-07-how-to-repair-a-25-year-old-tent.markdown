@@ -29,23 +29,23 @@ Concerning Silicon/Nylon tents, I have no clue, sorry! Anyway, all of this cost 
 
 ### Step 2: Prepare!
 
-![Open les windows](/public/assets/2017-06-07-how-to-repair-a-25-year-old-tent/_DSC0810_01.jpg)
+![Open les windows](/public/assets/2017-06-07-how-to-repair-a-25-year-old-tent/DSC0810_01.jpg)
 
 I can't really seal all of the tent at once in my small room, so I had to do this a couple of times: Open - the - windows. The stuff in the tube stinks. And be prepared to leave the windows open for two hours at least. It takes around eight hours before the seams are completely dry again.
 
 ### Step 3: Clean the seams
 
-![Remove the tape](/public/assets/2017-06-07-how-to-repair-a-25-year-old-tent/_DSC0812_01.jpg)
+![Remove the tape](/public/assets/2017-06-07-how-to-repair-a-25-year-old-tent/DSC0812_01.jpg)
 
 Lay out the portion of your tent which you want to seal on an even surface, and remove the "sealing" tape where it hasn't come off already.
 
-![Apply the alcohol](/public/assets/2017-06-07-how-to-repair-a-25-year-old-tent/_DSC0814_01.jpg)
+![Apply the alcohol](/public/assets/2017-06-07-how-to-repair-a-25-year-old-tent/DSC0814_01.jpg)
 
 Put on the rubber gloves now. Then make sure the seams are clean, soak a part of the rug in isopropyl alcohol and rub it into the seams which you are about to seal.
 
 ### Step 4: Apply the sealing gel
 
-![Use the gel](/public/assets/2017-06-07-how-to-repair-a-25-year-old-tent/_DSC0816_01.jpg)
+![Use the gel](/public/assets/2017-06-07-how-to-repair-a-25-year-old-tent/DSC0816_01.jpg)
 
 The gel comes in a tube with an optional brush applicator. Use the applicator if you are going to spend all of the tube at once. Otherwise, I figured it was a pretty bad idea. The applictor has a tiny hole inside which is supposed to let the gel through - which will be sealed, i.e. useless overnight. Just use the tube directly and then spread the gel using the brush.
 
@@ -55,7 +55,7 @@ Apply the gel to roughly the same area as the tape had before.
 
 Preferably outside of the room in which the tent is drying.
 
-![Shiny seams](/public/assets/2017-06-07-how-to-repair-a-25-year-old-tent/_DSC0819.jpg)
+![Shiny seams](/public/assets/2017-06-07-how-to-repair-a-25-year-old-tent/DSC0819.jpg)
 
 As you can see in the picture, the seams are shiny after using the gel.
 
