@@ -18,7 +18,7 @@
 title: 		Fabian Schmidt
 email: 		fschmidt95@googlemail.com
 tagline: > # this means to ignore newlines until "baseurl:"
-  Thoughts about some things I do.
+  $fancy_tagline
 description: > # this means to ignore newlines until "baseurl:"
   
 baseurl: 	"" # the subpath of your site, e.g. /blog
